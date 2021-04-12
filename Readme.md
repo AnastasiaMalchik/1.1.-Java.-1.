@@ -12,10 +12,10 @@
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты:
-* Тест-кейс.
+* Код из Задачи №1 - Credit Card Number Validator.
 
 В качестве тестовых данных использовались данные:
-* https://www.freeformatter.com/credit-card-number-generator-validator.html#validate - номера карт взяты из этого источника.
+* Номера карт взяты из [ЭТОГО](https://www.freeformatter.com/credit-card-number-generator-validator.html#validate) источника.
 
 Тестирование производилось в следующем окружении:
 * Windows 10 64 бита
