@@ -12,7 +12,7 @@
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты:
-* Код из Задачи №1 - Credit Card Number Validator.
+* [Код из Задачи №1](https://github.com/netology-code/javaqa-homeworks/tree/master/intro) - Credit Card Number Validator.
 
 В качестве тестовых данных использовались данные:
 * Номера карт взяты из [ЭТОГО](https://www.freeformatter.com/credit-card-number-generator-validator.html#validate) источника.
